@@ -20,7 +20,7 @@ I'm Kwangwon University student.
 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.notion.site/9588a9a16c6d40b2a43400d509ae9ff6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=saranghein)](https://solved.ac/saranghein)
 
