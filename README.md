@@ -20,6 +20,7 @@ I'm Kwangwon University student.
 <br>
 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.notion.site/9588a9a16c6d40b2a43400d509ae9ff6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a> 
+<a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=181717"/></a> 
 <hr>
 <br>
 
