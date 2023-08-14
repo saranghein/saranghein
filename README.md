@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> Hi there 👋</h3>
-I'm Kwangwoon University student.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=saranghein's%20GitHub&descAlignY=51&descAlign=62)
 
+<!---
+<h3 align='center'> Hi there 👋</h3>
+<p align='center'>I'm Kwangwoon University student.</p>
+--->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranghein&count_bg=%23E08FFF&title_bg=%239622F4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <br>
