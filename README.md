@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align='center'>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=saranghein's%20GitHub&descAlignY=51&descAlign=62)
 
 <!---
@@ -19,14 +22,18 @@ Here are some ideas to get you started:
 <p align='center'>I'm Kwangwoon University student.</p>
 --->
 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranghein&count_bg=%23E08FFF&title_bg=%239622F4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-<br>
-<a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
+💕 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.notion.site/9588a9a16c6d40b2a43400d509ae9ff6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a> 
-<a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a> 
-<hr>
-<br>
+<a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a> 💕
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
 
+</div>
+<!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=saranghein)](https://solved.ac/saranghein)
+-->
