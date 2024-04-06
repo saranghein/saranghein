@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-  
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=saranghein's%20GitHub&descAlignY=51&descAlign=62)
-
+-->
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=300&duration=3000&pause=1000&color=FFFFFF&background=000000&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%5B%2B%5D+Building+2.1s+(15%2F15)+FINISHED++;Welcome+to+saranghein's+GitHub!!;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;saranghein-Github%3A~haeinlee+%24+%7C)](https://git.io/typing-svg)
+  
 <!---
 <h3 align='center'> Hi there 👋</h3>
 <p align='center'>I'm Kwangwoon University student.</p>
@@ -27,8 +30,8 @@ Here are some ideas to get you started:
 
 💕 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.notion.site/9588a9a16c6d40b2a43400d509ae9ff6" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a> 
-<a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a> 💕
-
+<a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
+<a href="https://saranghein.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a> 💕
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
