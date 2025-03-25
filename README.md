@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <p align='center'>I'm Kwangwoon University student.</p>
 --->
 
-  
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranghein&count_bg=%23E08FFF&title_bg=%239622F4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
+-->
 </div>
 
 
