@@ -12,7 +12,7 @@
   <p>
   <b> 💻Collaborate💻</b>
 </p>
-  <a href="#">
+  <a href="">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,figma,canva,discord&titles=true"
     />
