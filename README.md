@@ -14,7 +14,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,figma,canva,discord&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,notion,figma,canva,discord&titles=true"
     />
   </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql,mariadb,mongodb,aws,springdatajpa&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql,mariadb,mongodb,aws,springdatajpa,docker&titles=true"
     />
   </a>
 </p>
