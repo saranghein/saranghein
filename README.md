@@ -8,7 +8,7 @@
 
 </div>
 
-<p >
+<h3>
   <p>
   <b> 💻Collaborate💻</b>
 </p>
@@ -17,10 +17,10 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=git,github,notion,figma,canva,discord&titles=true"
     />
   </a>
-</p>
+</h3>
 <br>
 
-<p align="center">
+<h3>
   <p>
   <b>💡Language💡</b>
 </p>
@@ -29,10 +29,10 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,cs,python,html,css,javascript,kotlin&titles=true"
     />
   </a>
-</p>
+</h3>
 <br>
 
-<p align="center">
+<h3>
   <p>
   <b>🔐Back-End🔐</b>
 </p>
@@ -41,10 +41,10 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql,mariadb,mongodb,aws,springdatajpa,docker&titles=true"
     />
   </a>
-</p>
+</h3>
 <br>
 
-<p align="center" style="background-color:black">
+<h3>
   <p>
   <b>🖍️Front-End🖍️</b>
 </p>
@@ -53,10 +53,10 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=vue,bootstrap,nodejs,vite&titles=true"
     />
   </a>
-</p>
+</h3>
 <br>
 
-<p align="center">
+<h3>
   <p>
   <b>📱App📱</b>
 </p>
@@ -65,9 +65,9 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=android,firebase&titles=true"
     />
   </a>
-</p>
+</h3>
 <br>
-<p align='center'>
+<h3>
   <p>
     <b> 👋Contanct👋</b>
   </p>
@@ -75,23 +75,33 @@
 <a href="https://saranghein.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.notion.site/1765daf65a2680269753d7205439aab5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a> 
 <a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
-</p>
+</h3>
 </div>
 <br>
+
+![header](https://capsule-render.vercel.app/api?type=slice)
+
+
 <div align="center">
+  
+  <h3>
+    <b>🌳Projects🌳</b>
+  </h3>
   
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Broom_Back)
    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Memory_Back)
     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue.js-Project-Skeleton_Front)
     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=CodingTest)
 
-
-
-
 <br>
 <div align='center'>
+  <h3>
+    <b>〰️Code States〰️</b>
+  </h3>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab,Ruby)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
 
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=slice&section=footer)
 
