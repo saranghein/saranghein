@@ -14,7 +14,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,figma,canva,discord&titles=true&perline=5"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,notion,figma,canva,discord&titles=true"
     />
   </a>
 </p>
@@ -26,7 +26,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,cs,python,html,css,javascript,kotlin&titles=true&perline=5"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,c,cpp,cs,python,html,css,javascript,kotlin&titles=true"
     />
   </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql,mariadb,mongodb,aws,springdatajpa&titles=true&perline=5"
+      src="https://go-skill-icons.vercel.app/api/icons?i=spring,mysql,mariadb,mongodb,aws,springdatajpa&titles=true"
     />
   </a>
 </p>
@@ -50,7 +50,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vue,bootstrap,nodejs&titles=true&perline=5"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vue,bootstrap,nodejs&titles=true"
     />
   </a>
 </p>
@@ -62,7 +62,7 @@
 </p>
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=android,firebase&titles=true&perline=5"
+      src="https://go-skill-icons.vercel.app/api/icons?i=android,firebase&titles=true"
     />
   </a>
 </p>
