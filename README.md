@@ -6,9 +6,9 @@
 <!--https://git.io/typing-svg-->
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=2000&pause=1000&color=000000&background=FFFFFF&vCenter=true&multiline=true&repeat=false&width=480&height=200&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%5B%2B%5D+Building+2.5s+(15%2F15)+FINISHED;Welcome+to+saranghein's+GitHub!!;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;sranghein-Github%3A~haeinlee+%24" alt="Typing SVG" /></a>
 
+</div>
 
-
-<p align="center">
+<p >
   <p>
   <b> 💻Collaborate💻</b>
 </p>
@@ -85,7 +85,6 @@
     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue.js-Project-Skeleton_Front)
     ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=CodingTest)
 
-</div>
 
 
 
