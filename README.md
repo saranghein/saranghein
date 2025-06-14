@@ -99,7 +99,7 @@
     <b>〰️Code States〰️</b>
   </h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab,Ruby)](https://github.com/saranghein/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab,Ruby)](#)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy)](#)
 
 </div>
 
