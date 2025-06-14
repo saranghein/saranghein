@@ -69,7 +69,7 @@
 <br>
 <h3>
   <p>
-    <b> 👋Contanct👋</b>
+    <b> 👋Contact👋</b>
   </p>
 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://saranghein.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
@@ -77,7 +77,7 @@
 <a href="https://saranghein.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub_Blog-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/></a>
 </h3>
 </div>
-<br>
+<br><br>
 
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
