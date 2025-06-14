@@ -69,6 +69,17 @@
 <br>
 <h3>
   <p>
+  <b>🧠AI🧠</b>
+</p>
+  <a href="#">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,googlecolab,flask&titles=true"
+    />
+  </a>
+</h3>
+<br>
+<h3>
+  <p>
     <b> 👋Contact👋</b>
   </p>
 <a href="mailto:saranghein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/saranghein@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
