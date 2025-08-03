@@ -100,7 +100,7 @@
   </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue-Project-zangBu_Front)](https://github.com/saranghein/Vue-Project-zangBu_Front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Spring-Project-zangBu_Back)](https://github.com/saranghein/Spring-Project-zanBu_Back)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Spring-Project-zangBu_Back)](https://github.com/saranghein/Spring-Project-zangBu_Back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Broom_Back)](https://github.com/saranghein/SpringBoot-Project-Broom_Back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Memory_Back)](https://github.com/saranghein/SpringBoot-Project-Memory_Back)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue.js-Project-Skeleton_Front)](https://github.com/saranghein/Vue.js-Project-Skeleton_Front)
