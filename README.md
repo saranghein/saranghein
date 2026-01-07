@@ -99,12 +99,12 @@
     <b>🌳Projects🌳</b>
   </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue-Project-zangBu_Front)](https://github.com/saranghein/Vue-Project-zangBu_Front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Spring-Project-zangBu_Back)](https://github.com/saranghein/Spring-Project-zangBu_Back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Broom_Back)](https://github.com/saranghein/SpringBoot-Project-Broom_Back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Memory_Back)](https://github.com/saranghein/SpringBoot-Project-Memory_Back)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=Vue.js-Project-Skeleton_Front)](https://github.com/saranghein/Vue.js-Project-Skeleton_Front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saranghein&repo=CodingTest)](https://github.com/saranghein/CodingTest)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=Vue-Project-zangBu_Front)](https://github.com/saranghein/Vue-Project-zangBu_Front)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=Spring-Project-zangBu_Back)](https://github.com/saranghein/Spring-Project-zangBu_Back)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Broom_Back)](https://github.com/saranghein/SpringBoot-Project-Broom_Back)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=SpringBoot-Project-Memory_Back)](https://github.com/saranghein/SpringBoot-Project-Memory_Back)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=Vue.js-Project-Skeleton_Front)](https://github.com/saranghein/Vue.js-Project-Skeleton_Front)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=saranghein&repo=CodingTest)](https://github.com/saranghein/CodingTest)
 
 <br>
 <div align='center'>
@@ -112,7 +112,7 @@
     <b>〰️Code States〰️</b>
   </h3>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab,Ruby)](#)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saranghein&show_icons=true&theme=buefy)](#)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=saranghein&layout=compact&langs_count=8&hide=html,HLSL,FreeMarker,ShaderLab,Ruby)](#)  [![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=saranghein&show_icons=true&theme=buefy)](#)
 
 </div>
 
